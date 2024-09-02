@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel or BullyB33f
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP, Javascript, MySQL, React, Angular
+- 🌱 I’m currently learning Java, Javascript, MySQL, React, Angular
 - 💞️ I’m looking to collaborate on various projects that involve skills from my stack.
 - 📫 How to reach me: email @ glassesdaniel@gmail.com
 
